@@ -1,0 +1,42 @@
+body{
+    background-color: #000080;
+}
+
+header{
+    color: #F8DE7E;
+}
+
+main{
+    color : #cc5500;
+}
+
+nav a{
+    color:#228b22;
+    text-decoration: none;
+    padding: 5px;
+    background-color: white;
+    border-color: black;
+    border-width: medium;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 1.8em;
+}
+
+header, nav{
+    text-align: center;
+}
+
+#link{
+    color: #228b22;
+}
+
+#homeText{
+    float: left;
+    width: 50%;
+    font-size: 1.5em;
+}
+
+#homeImg{
+    float: right;
+    margin-right: 10%;
+}
